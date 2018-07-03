@@ -702,10 +702,6 @@ namespace FlashStart
                     LoadImageList();
                 }
             }
-            else
-            {
-                string[] files = (string[])e.Data.GetData(DataFormats.FileDrop);
-            }
         }
         private void tabControl_Main_DragOver(object sender, DragEventArgs e)
         {
