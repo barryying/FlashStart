@@ -1,0 +1,63 @@
+{
+  "AppListModel": [
+    {},
+    {
+      "AppInfo": {
+        "apptag": "常用",
+        "apptype": ".lnk",
+        "apptitle": "百度网盘",
+        "appiconpath": "C:/Users/YT/Desktop/百度网盘.lnk"
+      }
+    },
+    {
+      "AppInfo": {
+        "apptag": "编程",
+        "apptype": ".lnk",
+        "apptitle": "Visual Studio 2015",
+        "appiconpath": "C:/Users/YT/Desktop/Visual Studio 2015.lnk"
+      }
+    }
+  ],
+  "Settings": {
+    "shortcutkey": "Alt + Q",
+    "isdoubleclick": "true",
+    "isautobackup": "true",
+    "tabControl_Main": [
+      {
+        "TabPages": {
+          "tabpageid": "tabPage_default",
+          "tabpagename": "常用",
+          "tabpageindex": "0"
+        }
+      },
+      {
+        "TabPages": {
+          "tabpageid": "tabPage1",
+          "tabpagename": "编程",
+          "tabpageindex": 1
+        }
+      },
+      {
+        "TabPages": {
+          "tabpageid": "TabPage2",
+          "tabpagename": "工具",
+          "tabpageindex": "2"
+        }
+      },
+      {
+        "TabPages": {
+          "tabpageid": "TabPage4",
+          "tabpagename": "bbbb",
+          "tabpageindex": "4"
+        }
+      },
+      {
+        "TabPages": {
+          "tabpageid": "TabPage5",
+          "tabpagename": "ccc",
+          "tabpageindex": "5"
+        }
+      }
+    ]
+  }
+}
